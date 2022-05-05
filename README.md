@@ -21,7 +21,7 @@
  
  <p align="center">
   <strong><a href="https://www.instagram.com/sutanrrier/">Instagram</a></strong> |
-  <strong><a href="www.linkedin.com/in/pablo-ryan">LinkedIn</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/pablo-ryan">LinkedIn</a></strong> |
   <strong><a href="https://steamcommunity.com/id/sutanrrier">Steam</a></strong> |
   <strong><a href="https://twitter.com/sutanrrier">Twitter</a></strong>
 </p>
