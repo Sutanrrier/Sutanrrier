@@ -5,7 +5,8 @@
 <h2> About Me </h2>
   <li><strong> 😀 Name:</strong> Pablo Ryan</li>
   <li><strong> ❤ Hobbies:</strong> Yu-Gi-Oh! | Games | Animes</li>
-  <li><strong> 💻 Working on:</strong> SEPOG</li>
+  <li><strong> 💻 Working:</strong> SEPOG</li>
+  <li><strong> 🔎 Studying: </strong>HTML, CSS3, JavaScript, Java, Spring</li>
 
 <br>
 
@@ -16,7 +17,7 @@
 <br>
 
 <p align="center">
- <a href="https://github.com/Sutanrrier"><img src="https://github-readme-stats.vercel.app/api?username=Sutanrrier&theme=dracula&include_all_commits=true&show_icons=true&count_private=false"></a>
+ <a href="https://github.com/Sutanrrier"><img src="https://github-readme-stats.vercel.app/api?username=Sutanrrier&theme=dracula&include_all_commits=true&show_icons=true"></a>
 </p>
  
  <p align="center">
