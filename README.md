@@ -6,7 +6,7 @@
   <li><strong> 😀 Name:</strong> Pablo Ryan</li>
   <li><strong> ❤ Hobbies:</strong> Yu-Gi-Oh! | Games | Animes</li>
   <li><strong> 💻 Working:</strong> SEPOG</li>
-  <li><strong> 🔎 Studying: </strong>HTML, CSS3, JavaScript, Java, Spring</li>
+  <li><strong> 🔎 Studying: </strong>HTML, CSS3, JavaScript, ReactJS, Java, Spring</li>
 
 <br>
 
