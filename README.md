@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
- <a href="https://github.com/Sutanrrier"><img src="https://github-readme-stats.vercel.app/api?username=Sutanrrier&theme=dracula&include_all_commits=true&show_icons=true"></a>
+ <a href="https://github.com/Sutanrrier"><img src="https://github-readme-stats.vercel.app/api?username=Sutanrrier&show_icons=true&theme=dracula"></a>
 </p>
  
  <p align="center">
