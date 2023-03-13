@@ -5,7 +5,7 @@
 <h2> About Me </h2>
   <li><strong> 😀 Name:</strong> Pablo Ryan</li>
   <li><strong> ❤ Hobbies:</strong> Yu-Gi-Oh! | Games | Animes</li>
-  <li><strong> 💻 Working:</strong> SEPOG</li>
+  <li><strong> 💻 Working:</strong> Nothing at moment</li>
   <li><strong> 🔎 Studying: </strong>HTML, CSS3, JavaScript, ReactJS, Java, Spring</li>
 
 <br>
