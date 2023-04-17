@@ -68,8 +68,6 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
   </p>
-  <p><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSutanrrier1212%2Fhit-counter"/></p>
-  <p><img src="https://github-profile-trophy.vercel.app/?username=Sutanrrier&theme=dark"/></p>
 </div>
 
 ![Snake animation](https://github.com/Sutanrrier/Sutanrrier/blob/output/github-contribution-grid-snake.svg)  
