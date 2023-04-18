@@ -11,8 +11,8 @@
 
 <div id+"stats" align="center">
   <h1>My Stats</h1>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutanrrier&layout=compact&langs_count=7&theme=dracula"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sutanrrier&show_icons=true&theme=dracula">
+  <img width="35%" heigth="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutanrrier&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="46%" heigth="192px" src="https://github-readme-stats.vercel.app/api?username=Sutanrrier&show_icons=true&theme=dracula">
 </div>
 
 <div id="skills" align="center">
