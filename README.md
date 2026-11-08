@@ -3,7 +3,7 @@
 
 <div id="aboutme">
   <h1>About me</h1>
-  <li><strong> 🙂 Pablo Ryan, 24 years</li>
+  <li><strong> 🙂 Pablo Ryan, 25 years</li>
   <li><strong> 💻 Fullstack Developer</li>
   <li><strong> 🔎 Studying new techonologies to improve my skills</li>
   <li><strong> ❤ Loves card/casual games</li>
